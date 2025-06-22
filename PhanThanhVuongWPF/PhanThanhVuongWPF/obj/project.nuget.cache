@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "rNKpkuSsEos=",
+  "success": true,
+  "projectFilePath": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.6\\microsoft.extensions.configuration.9.0.6.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.6\\microsoft.extensions.configuration.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.6\\microsoft.extensions.configuration.fileextensions.9.0.6.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.6\\microsoft.extensions.configuration.json.9.0.6.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.6\\microsoft.extensions.fileproviders.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.6\\microsoft.extensions.fileproviders.physical.9.0.6.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.6\\microsoft.extensions.filesystemglobbing.9.0.6.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.6\\microsoft.extensions.primitives.9.0.6.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

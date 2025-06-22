@@ -1,0 +1,11 @@
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\DataAccess\bin\Debug\net9.0\DataAccess.dll
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\DataAccess\obj\Debug\net9.0\DataAccess.dll
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll

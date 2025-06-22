@@ -1,0 +1,189 @@
+﻿<Window x:Class="PhanThanhVuongWPF.UpdateRoomWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhanThanhVuongWPF"
+        mc:Ignorable="d"
+        Title="Update Room" SizeToContent="Height" Width="480" WindowStartupLocation="CenterScreen">
+    
+    <Window.Resources>
+        <!-- Style for TextBox controls -->
+        <Style x:Key="InputBoxStyle" TargetType="TextBox">
+            <Setter Property="Height" Value="36"/>
+            <Setter Property="Padding" Value="10,0"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="BorderBrush" Value="#D1D5DB"/>
+            <Setter Property="Margin" Value="0,4,0,2"/>
+        </Style>
+        
+        <!-- Style for ComboBox -->
+        <Style x:Key="ComboBoxStyle" TargetType="ComboBox">
+            <Setter Property="Height" Value="36"/>
+            <Setter Property="Padding" Value="8,6,5,6"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="BorderBrush" Value="#D1D5DB"/>
+            <Setter Property="Margin" Value="0,4,0,2"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
+        
+        <!-- Style for Labels -->
+        <Style x:Key="LabelStyle" TargetType="TextBlock">
+            <Setter Property="FontWeight" Value="Medium"/>
+            <Setter Property="Foreground" Value="#4B5563"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="0,10,10,2"/>
+        </Style>
+        
+        <!-- Style for Buttons -->
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Height" Value="38"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Margin" Value="8,0"/>
+            <Setter Property="FontWeight" Value="Medium"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="4"/>
+                </Style>
+            </Style.Resources>
+        </Style>
+        
+        <Style x:Key="UpdateButtonStyle" TargetType="Button" BasedOn="{StaticResource ButtonStyle}">
+            <Setter Property="Background" Value="#047857"/> <!-- Green color for Update -->
+            <Setter Property="Foreground" Value="White"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#065F46"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        
+        <Style x:Key="CancelButtonStyle" TargetType="Button" BasedOn="{StaticResource ButtonStyle}">
+            <Setter Property="Background" Value="#F3F4F6"/>
+            <Setter Property="Foreground" Value="#4B5563"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#E5E7EB"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        
+        <!-- Style for error messages -->
+        <Style x:Key="ErrorMessageStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#E53E3E"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Margin" Value="0,0,0,4"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+        </Style>
+    </Window.Resources>
+    
+    <Border Background="#F8F9FA" CornerRadius="0">
+        <Grid Margin="25">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            
+            <!-- Header -->
+            <StackPanel Grid.Row="0" Margin="0,0,0,20">
+                <TextBlock Text="Update Room" 
+                           FontSize="20" FontWeight="Bold" 
+                           Foreground="#1E40AF" 
+                           HorizontalAlignment="Center"/>
+                <TextBlock x:Name="RoomNumberTitle"
+                           Text="Room: [Number]" 
+                           Foreground="#4B5563" 
+                           FontSize="14" 
+                           HorizontalAlignment="Center" 
+                           Margin="0,4,0,0"/>
+            </StackPanel>
+            
+            <!-- Main Form -->
+            <Border Grid.Row="1" 
+                    Background="White" 
+                    CornerRadius="8" 
+                    BorderBrush="#E2E8F0" 
+                    BorderThickness="1">
+                <Grid Margin="20">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="130"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Room ID (Read-only) -->
+                    <TextBlock Text="Room ID:" Grid.Row="0" Grid.Column="0" Style="{StaticResource LabelStyle}"/>
+                    <TextBox x:Name="RoomID" 
+                             Grid.Row="0" Grid.Column="1" 
+                             Style="{StaticResource InputBoxStyle}" 
+                             IsReadOnly="True" 
+                             Background="#F9FAFB"/>
+
+                    <!-- Room Number -->
+                    <TextBlock Text="Room Number:" Grid.Row="1" Grid.Column="0" Style="{StaticResource LabelStyle}"/>
+                    <StackPanel Grid.Row="1" Grid.Column="1">
+                        <TextBox x:Name="RoomNumber" Style="{StaticResource InputBoxStyle}" TextChanged="TextBox_TextChanged"/>
+                        <TextBlock x:Name="RoomNumberError" Style="{StaticResource ErrorMessageStyle}" Visibility="Collapsed"/>
+                    </StackPanel>
+
+                    <!-- Room Description -->
+                    <TextBlock Text="Description:" Grid.Row="2" Grid.Column="0" Style="{StaticResource LabelStyle}"/>
+                    <StackPanel Grid.Row="2" Grid.Column="1">
+                        <TextBox x:Name="RoomDescription" Style="{StaticResource InputBoxStyle}" TextChanged="TextBox_TextChanged"/>
+                        <TextBlock x:Name="RoomDescriptionError" Style="{StaticResource ErrorMessageStyle}" Visibility="Collapsed"/>
+                    </StackPanel>
+
+                    <!-- Room Max Capacity -->
+                    <TextBlock Text="Max Capacity:" Grid.Row="3" Grid.Column="0" Style="{StaticResource LabelStyle}"/>
+                    <StackPanel Grid.Row="3" Grid.Column="1">
+                        <TextBox x:Name="RoomMaxCapacity" Style="{StaticResource InputBoxStyle}" TextChanged="TextBox_TextChanged" PreviewTextInput="NumberValidationTextBox"/>
+                        <TextBlock x:Name="RoomMaxCapacityError" Style="{StaticResource ErrorMessageStyle}" Visibility="Collapsed"/>
+                    </StackPanel>
+
+                    <!-- Room Price Per Date -->
+                    <TextBlock Text="Price Per Day:" Grid.Row="4" Grid.Column="0" Style="{StaticResource LabelStyle}"/>
+                    <StackPanel Grid.Row="4" Grid.Column="1">
+                        <TextBox x:Name="RoomPricePerDate" Style="{StaticResource InputBoxStyle}" TextChanged="TextBox_TextChanged" PreviewTextInput="DecimalValidationTextBox"/>
+                        <TextBlock x:Name="RoomPricePerDateError" Style="{StaticResource ErrorMessageStyle}" Visibility="Collapsed"/>
+                    </StackPanel>
+
+                    <!-- Room Type -->
+                    <TextBlock Text="Room Type:" Grid.Row="5" Grid.Column="0" Style="{StaticResource LabelStyle}"/>
+                    <StackPanel Grid.Row="5" Grid.Column="1">
+                        <ComboBox x:Name="RoomType" Style="{StaticResource ComboBoxStyle}" SelectionChanged="RoomType_SelectionChanged">
+                            <ComboBoxItem Content="Standard" Tag="1"/>
+                            <ComboBoxItem Content="Deluxe" Tag="2"/>
+                            <ComboBoxItem Content="Suite" Tag="3"/>
+                        </ComboBox>
+                        <TextBlock x:Name="RoomTypeError" Style="{StaticResource ErrorMessageStyle}" Visibility="Collapsed"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+            
+            <!-- Buttons -->
+            <StackPanel Grid.Row="2" 
+                        Orientation="Horizontal" 
+                        HorizontalAlignment="Right" 
+                        Margin="0,20,0,0">
+                <Button Content="Update" 
+                        Style="{StaticResource UpdateButtonStyle}" 
+                        Click="Update_Click" />
+                <Button Content="Cancel" 
+                        Style="{StaticResource CancelButtonStyle}" 
+                        Click="Cancel_Click" />
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

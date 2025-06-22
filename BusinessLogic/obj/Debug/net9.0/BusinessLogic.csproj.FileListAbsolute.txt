@@ -1,0 +1,15 @@
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\obj\Debug\net9.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfoInputs.cache
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfo.cs
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\bin\Debug\net9.0\BusinessLogic.deps.json
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\bin\Debug\net9.0\BusinessLogic.dll
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\bin\Debug\net9.0\BusinessLogic.pdb
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\bin\Debug\net9.0\DataAccess.dll
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\bin\Debug\net9.0\DataAccess.pdb
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.AssemblyReference.cache
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\obj\Debug\net9.0\Business.CF5D6E35.Up2Date
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\obj\Debug\net9.0\BusinessLogic.dll
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\obj\Debug\net9.0\refint\BusinessLogic.dll
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\obj\Debug\net9.0\BusinessLogic.pdb
+E:\SU25\PRN212\AS1\PhanThanhVuong_DE180405_SE18D05\BusinessLogic\obj\Debug\net9.0\ref\BusinessLogic.dll

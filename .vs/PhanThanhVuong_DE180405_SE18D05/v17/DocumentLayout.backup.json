@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C7D8BB-411C-4BC1-B485-BB802A21A796}|DataAccess\\DataAccess.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\dataaccess\\repositories\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C7D8BB-411C-4BC1-B485-BB802A21A796}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C7D8BB-411C-4BC1-B485-BB802A21A796}|DataAccess\\DataAccess.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\dataaccess\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C7D8BB-411C-4BC1-B485-BB802A21A796}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\customerwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\customerwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\addbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\addbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\addbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\addbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C7D8BB-411C-4BC1-B485-BB802A21A796}|DataAccess\\DataAccess.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\dataaccess\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C7D8BB-411C-4BC1-B485-BB802A21A796}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\addcustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\addcustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\addroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\addroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\updateroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\updateroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\updateroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\updateroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\updatecustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\updatecustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\addroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\addroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\updatecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\updatecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|e:\\su25\\prn212\\as1\\phanthanhvuong_de180405_se18d05\\phanthanhvuongwpf\\phanthanhvuongwpf\\addcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9869988-5927-4B73-ADDE-85C2055EF942}|PhanThanhVuongWPF\\PhanThanhVuongWPF\\PhanThanhVuongWPF.csproj|solutionrelative:phanthanhvuongwpf\\phanthanhvuongwpf\\addcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\DataAccess\\Repositories\\DataContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\DataContext.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\DataAccess\\Repositories\\DataContext.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\DataContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:03:40.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\DataAccess\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\DataAccess\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:36:36.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AdminWindow.xaml",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AdminWindow.xaml",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T14:15:36.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AdminWindow.xaml.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T07:58:53.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\ViewModels\\AdminViewModel.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\ViewModels\\AdminViewModel.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAjwAoBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:15:41.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddBookingWindow.xaml",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddBookingWindow.xaml",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddBookingWindow.xaml",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddBookingWindow.xaml",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddBookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T14:34:15.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\CustomerWindow.xaml",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\CustomerWindow.xaml",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T14:24:05.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\ViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\ViewModels\\CustomerViewModel.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\ViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\ViewModels\\CustomerViewModel.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAIAwwG4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:18:38.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\DataAccess\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\BookingRepository.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\DataAccess\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwE4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:43:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddBookingWindow.xaml.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddBookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddBookingWindow.xaml.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddBookingWindow.xaml.cs",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddBookingWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:35:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:23:32.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddRoomWindow.xaml.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddRoomWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddRoomWindow.xaml.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddRoomWindow.xaml.cs",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddRoomWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:49:51.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCustomerWindow.xaml.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddCustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddCustomerWindow.xaml.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddCustomerWindow.xaml.cs",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddCustomerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:45:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateRoomWindow.xaml.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateRoomWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateRoomWindow.xaml.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateRoomWindow.xaml.cs",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateRoomWindow.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAawDkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:58:34.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateRoomWindow.xaml",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateRoomWindow.xaml",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateRoomWindow.xaml",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateRoomWindow.xaml",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T07:35:42.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateCustomerWindow.xaml.cs",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateCustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateCustomerWindow.xaml.cs",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateCustomerWindow.xaml.cs",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateCustomerWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:35:15.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddRoomWindow.xaml",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddRoomWindow.xaml",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddRoomWindow.xaml",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddRoomWindow.xaml",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T07:35:49.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateCustomerWindow.xaml",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateCustomerWindow.xaml",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateCustomerWindow.xaml",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\UpdateCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T07:30:16.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddCustomerWindow.xaml",
+              "DocumentMoniker": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddCustomerWindow.xaml",
+              "ToolTip": "E:\\SU25\\PRN212\\AS1\\PhanThanhVuong_DE180405_SE18D05\\PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddCustomerWindow.xaml",
+              "RelativeToolTip": "PhanThanhVuongWPF\\PhanThanhVuongWPF\\AddCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T03:42:18.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
